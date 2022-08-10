@@ -1,4 +1,4 @@
-autobuilds
+autobuilds (softfp)
 ==========
 [![Build Status](https://travis-ci.org/vitasdk/autobuilds.svg?branch=master)](https://travis-ci.org/vitasdk/autobuilds)
 
